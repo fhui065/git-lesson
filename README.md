@@ -1,6 +1,8 @@
 # git-lession-ss2016
 This is our teaching repository for summer school 2016
 
+making some changes
+
 *this is italic*
 
 **this is bold**
